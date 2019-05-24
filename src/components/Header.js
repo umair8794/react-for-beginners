@@ -2,9 +2,10 @@ import React from 'react';
 
 const Header = ({ tagline }) => (
     <header className="top">
-        <h1>Catch
+        <h1>
+            Catch
             <span className="ofThe">
-                <span className="off">Of</span>
+                <span className="of">Of</span>
                 <span className="the">The</span>
             </span>
             Day
